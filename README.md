@@ -1,7 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<head>
+  <style>
+    .highlight {
+      font-size: 2rem; /* 큰 글씨 크기 */
+      font-weight: bold; /* 굵은 글씨 */
+      text-align: center; /* 중앙 정렬 */
+      margin: 20px 0; /* 위아래 여백 추가 */
+      color: #2a9d8f; /* 강조 색상 */
+    }
+  </style>
+</head>
+
 <body>
+  <div class="highlight">Engineer Who Turns Imagination into Reality</div>
+
   <h1>이준혁</h1>
   <p>메카트로닉스 공학부 | 인공지능응용학전공</p>
   
@@ -10,22 +24,22 @@
     <li>Email: <a href="mailto:leejh104@naver.com">leejh104@naver.com</a></li>
     <li>Phone: 010-5240-2729</li>
   </ul>
-
-<h2>🖥️ SNS</h2>
-<ul>
-  <li>
-    YouTube: 
-    <a href="https://www.youtube.com/playlist?list=PLPIG_UZvFW1aUdj-fLTnTUKoSGekMSg_L" target="_blank">
-      June_LAB_youtube
-    </a>
-  </li>
-  <li>
-    Notion: 
-    <a href="https://www.notion.so/June_LAB-149b0b46464880fca584f5f5b1a91380?pvs=4" target="_blank">
-      June_LAB_Notion
-    </a>
-  </li>
-</ul>
+  
+  <h2>🖥️ SNS</h2>
+  <ul>
+    <li>
+      YouTube: 
+      <a href="https://www.youtube.com/playlist?list=PLPIG_UZvFW1aUdj-fLTnTUKoSGekMSg_L" target="_blank">
+        June_LAB_youtube
+      </a>
+    </li>
+    <li>
+      Notion: 
+      <a href="https://www.notion.so/June_LAB-149b0b46464880fca584f5f5b1a91380?pvs=4" target="_blank">
+        June_LAB_Notion
+      </a>
+    </li>
+  </ul>
   
   <h2>📚 Education</h2>
   <ul>
@@ -68,20 +82,19 @@
     <li>Ubuntu</li>
   </ul>
 
-<h2>🏆 Competitions & Conferences</h2>
-<ul>
-  <li>한국공학대 - 아두이노 챌린지 (본선)</li>
-  <li>다기관 연계 메이커스페이스 경진대회 (본선)</li>
-  <li>2023 메카이브 메이커톤 (본선)</li>
-  <li>2023년 국제로봇콘테스트 - 씨름로봇 (본선)</li>
-  <li>창의아이디어경진대회 (본선)</li>
-  <li>한국생산제조학회 2024 춘계학술대회</li>
-  <li>2024 메카이브 창직 메이커톤 (최우수)</li>
-  <li>2024년 국제로봇콘테스트 - 씨름로봇 (최우수)</li>
-  <li>미래자동차 자율주행 경진대회 (장려상)</li>
-  <li>한국생산제조학회 2024 추계학술대회</li>
-</ul>
-
+  <h2>🏆 Competitions & Conferences</h2>
+  <ul>
+    <li>한국공학대 - 아두이노 챌린지 (본선)</li>
+    <li>다기관 연계 메이커스페이스 경진대회 (본선)</li>
+    <li>2023 메카이브 메이커톤 (본선)</li>
+    <li>2023년 국제로봇콘테스트 - 씨름로봇 (본선)</li>
+    <li>창의아이디어경진대회 (본선)</li>
+    <li>한국생산제조학회 2024 춘계학술대회</li>
+    <li>2024 메카이브 창직 메이커톤 (최우수)</li>
+    <li>2024년 국제로봇콘테스트 - 씨름로봇 (최우수)</li>
+    <li>미래자동차 자율주행 경진대회 (장려상)</li>
+    <li>한국생산제조학회 2024 추계학술대회</li>
+  </ul>
 
 </body>
 
