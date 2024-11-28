@@ -11,11 +11,21 @@
     <li>Phone: 010-5240-2729</li>
   </ul>
 
-  <h2>🖥️ SNS</h2>
-  <ul>
-    <li>:yt:: <a href="mailto:leejh104@naver.com">leejh104@naver.com</a></li>
-    <li>Phone: 010-5240-2729</li>
-  </ul>
+<h2>🖥️ SNS</h2>
+<ul>
+  <li>
+    YouTube: 
+    <a href="https://www.youtube.com/playlist?list=PLPIG_UZvFW1aUdj-fLTnTUKoSGekMSg_L" target="_blank">
+      YouTube Playlist
+    </a>
+  </li>
+  <li>
+    Notion: 
+    <a href="https://www.notion.so/June_LAB-149b0b46464880fca584f5f5b1a91380?pvs=4" target="_blank">
+      June's Notion
+    </a>
+  </li>
+</ul>
   
   <h2>📚 Education</h2>
   <ul>
