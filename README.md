@@ -10,6 +10,12 @@
     <li>Email: <a href="mailto:leejh104@naver.com">leejh104@naver.com</a></li>
     <li>Phone: 010-5240-2729</li>
   </ul>
+
+  <h2>🖥️ SNS</h2>
+  <ul>
+    <li>:yt:: <a href="mailto:leejh104@naver.com">leejh104@naver.com</a></li>
+    <li>Phone: 010-5240-2729</li>
+  </ul>
   
   <h2>📚 Education</h2>
   <ul>
