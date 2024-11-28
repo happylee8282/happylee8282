@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<img src="https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=Engineer%20Who%20Turns%20Imagination%20into%20Reality&fontSize=40" alt="Header Image">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Engineer%20Who%20Turns%20Imagination%20into%20Reality&fontSize=40" alt="Header Image">
 
 <body>
   <div class="highlight">Engineer Who Turns Imagination into Reality</div>
