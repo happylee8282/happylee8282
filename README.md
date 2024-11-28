@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Engineer%20Who%20Turns%20Imagination%20into%20Reality&fontSize=40&fontColor=00008B" alt="Header Image">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Engineer&desc=Who%20Turns%20Imagination%20into%20Reality&fontSize=60&descSize=30&fontColor=00008B" alt="Header Image">
 
 <body>
 
