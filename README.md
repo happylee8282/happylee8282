@@ -1,17 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <style>
-    .highlight {
-      font-size: 2rem; /* 큰 글씨 크기 */
-      font-weight: bold; /* 굵은 글씨 */
-      text-align: center; /* 중앙 정렬 */
-      margin: 20px 0; /* 위아래 여백 추가 */
-      color: #2a9d8f; /* 강조 색상 */
-    }
-  </style>
-</head>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 
 <body>
   <div class="highlight">Engineer Who Turns Imagination into Reality</div>
