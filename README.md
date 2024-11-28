@@ -4,7 +4,13 @@
 <body>
   <h1>이준혁</h1>
   <p>메카트로닉스 공학부 | 인공지능응용학전공</p>
-
+  
+  <h2>📫 Contact</h2>
+  <ul>
+    <li>Email: <a href="mailto:leejh104@naver.com">leejh104@naver.com</a></li>
+    <li>Phone: 010-5240-2729</li>
+  </ul>
+  
   <h2>📚 Education</h2>
   <ul>
     <li>2016 - 2019: 나루고등학교 졸업</li>
@@ -41,11 +47,6 @@
     <li>2024 메카이브 창작 메이커톤 (최우수상)</li>
   </ul>
 
-  <h2>📫 Contact</h2>
-  <ul>
-    <li>Email: <a href="mailto:leejh104@naver.com">leejh104@naver.com</a></li>
-    <li>Phone: 010-5240-2729</li>
-  </ul>
 </body>
 
 </html>
