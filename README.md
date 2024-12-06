@@ -14,7 +14,6 @@
     <li>Email: <a href="mailto:leejh104@naver.com">leejh104@naver.com</a></li>
     <li>Phone: 010-5240-2729</li>
   </ul>
-  https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
   <h2>🖥️ SNS</h2>
   <ul>
     <li>
