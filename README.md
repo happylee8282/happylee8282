@@ -65,9 +65,7 @@
     <li>C / C++</li>
     <li>ROS1 / ROS2</li>
     <li>TensorFlow</li>
-    <li>PyTorch</li>
     <li>OpenCV</li>
-    <li>MySQL</li>
     <li>Ubuntu</li>
   </ul>
 
