@@ -7,7 +7,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   <h1>이준혁</h1>
-  <p>메카트로닉스 공학부 | 인공지능응용학전공</p>
+  <p>메카트로닉스 공학부 | 인공지능응용학전</p>
   
   <h2>📫 Contact</h2>
   <ul>
