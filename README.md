@@ -70,16 +70,10 @@
     <li>영어 오픽: IH</li>
     <li>전체 학점: 3.79/4.5</li>
     <li>전공 학점: 3.81/4.5</li>
-    <li>Python</li>
-    <li>C / C++</li>
-    <li>ROS1 / ROS2</li>
-    <li>TensorFlow</li>
-    <li>OpenCV</li>
-    <li>Ubuntu</li>
     <li>Prog. Langs: C / C++, Python</li>
     <li>Operating System: ROS, ROS2</li>
-    <li>Hardware: Arduino, Raspberry Pi, Jetson Nano</li>
-    <li>Deep Learning: TensorFlow, YOLO V8</li>
+    <li>Hardware: Arduino, Raspberry pi, Jetson Nano</li>
+    <li>Deep Learning: Tensorflow ,YOLO V8</li>
     <li>Vision: OpenCV</li>
     <li>ETC: MySQL, Ubuntu</li>
 </ul>
