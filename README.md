@@ -23,8 +23,8 @@
     </li>
     <li>
       Notion: 
-      <a href="[https://www.notion.so/June_LAB-149b0b46464880fca584f5f5b1a91380?pvs=4](https://drive.google.com/drive/folders/1T60WDvJjvGeJLKMY-mb2frQHk92bJUR3)" target="_blank">
-        June_LAB_Notion
+      <a href="https://drive.google.com/drive/folders/1T60WDvJjvGeJLKMY-mb2frQHk92bJUR3?usp=drive_link" target="_blank">
+        June_portfolio_document
       </a>
     </li>
     <li>
