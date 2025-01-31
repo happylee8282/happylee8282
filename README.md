@@ -22,6 +22,12 @@
       </a>
     </li>
     <li>
+      YouTube: 
+      <a href="https://www.youtube.com/playlist?list=PLPIG_UZvFW1ZzfJL8tVFMxeXSB57-W_xl" target="_blank">
+        June_presentation_youtube
+      </a>
+    </li>    
+    <li>
       Drive: 
       <a href="https://drive.google.com/drive/folders/1T60WDvJjvGeJLKMY-mb2frQHk92bJUR3?usp=drive_link" target="_blank">
         June_portfolio_document
