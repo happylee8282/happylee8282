@@ -69,6 +69,7 @@
     <li>2024.09 - 2024.10: Waveshare Jetracer</li>
     <li>2024.09 - 2024.12: Chatbot (LangChain)</li>
     <li>2024.10 - 2024.11: ROCK,SCISSORS,PAPER!</li>
+    <li>2025.01 - 2025.02: Doosan Robotics Boot Camp Project</li>
   </ul>
 
   <h2>✨ Skills</h2>
@@ -104,7 +105,6 @@
     <li>2024 교내 진로 포트폴리오 경진대회 (최우수상)</li>
     <li>제3회 한양대 진로 포트폴리오 경진대회 (최우수상)</li>
     <li>TU-VCC 최종 성과발표 (2024년 2월 예정)</li>
-    <li>두산로보틱스 성과발표 (2024년 2월 예정)</li>
 </ul>
 
 
