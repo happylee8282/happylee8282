@@ -84,7 +84,7 @@
     <li>Hardware: Arduino, Raspberry pi, Jetson Nano</li>
     <li>Deep Learning: Tensorflow ,YOLO V8</li>
     <li>Vision: OpenCV</li>
-    <li>ETC: MySQL, Ubuntu</li>
+    <li>ETC: Ubuntu</li>
 </ul>
 
 
