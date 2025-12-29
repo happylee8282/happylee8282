@@ -6,7 +6,8 @@
 <body>
 
   <h1>이준혁</h1>
-  <p>메카트로닉스 공학부 | 인공지능융합전공</p>
+  <p>B.S. in Mechatronics engineering korea tech university - Minor in  Artificial Intelligence convergence major</p>
+  <p>M.S. Electrical Engineering Hanyang university(in progress)</p>
   
   <h2>📫 Contact</h2>
   <ul>
