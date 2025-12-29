@@ -5,37 +5,43 @@
 
 <body>
 
-  <h1>이준혁</h1>
-  <p>B.S. in Mechatronics engineering korea tech university - Minor in  Artificial Intelligence convergence major</p>
-  <p>M.S. Electrical Engineering Hanyang university(in progress)</p>
+  <h1>Junhyuk Lee</h1>
+  <p>
+    B.S. in Mechatronics Engineering, KoreaTech University<br>
+    Minor in Artificial Intelligence Convergence
+  </p>
+  <p>
+    M.S. in Electrical Engineering, Hanyang University (In progress)
+  </p>
   
   <h2>📫 Contact</h2>
   <ul>
     <li>Email: <a href="mailto:leejh104@naver.com">leejh104@naver.com</a></li>
-    <li>Phone: 010-5240-2729</li>
+    <li>Phone: +82-10-5240-2729</li>
   </ul>
+
   <h2>🖥️ SNS</h2>
   <ul>
     <li>
-      YouTube: 
+      YouTube:
       <a href="https://www.youtube.com/playlist?list=PLPIG_UZvFW1aUdj-fLTnTUKoSGekMSg_L" target="_blank">
         June_LAB_youtube
       </a>
     </li>
     <li>
-      YouTube: 
+      YouTube:
       <a href="https://www.youtube.com/playlist?list=PLPIG_UZvFW1ZzfJL8tVFMxeXSB57-W_xl" target="_blank">
         June_presentation_youtube
       </a>
-    </li>    
+    </li>
     <li>
-      Drive: 
+      Drive:
       <a href="https://drive.google.com/drive/folders/1T60WDvJjvGeJLKMY-mb2frQHk92bJUR3?usp=drive_link" target="_blank">
         June_portfolio_document
       </a>
     </li>
     <li>
-      Velog: 
+      Velog:
       <a href="https://velog.io/@happy_lee0_0/posts" target="_blank">
         happy_lee0_0.log
       </a>
@@ -44,9 +50,14 @@
   
   <h2>📚 Education</h2>
   <ul>
-    <li>2016 - 2019: 나루고등학교 졸업</li>
-    <li>2019 - 2023: 호서대학교 빅데이터 경영공학부 (입학)</li>
-    <li>2023 - 2025: 한국공학대학교 주 : 메카트로닉스공학부 / 부 : 안공지능융합전공 (편입)</li>
+    <li>2016 – 2019: Graduated from Naru High School</li>
+    <li>
+      2023 – 2025: B.S. in Mechatronics Engineering, KoreaTech University (Graduated)<br>
+      Minor in Artificial Intelligence Convergence
+    </li>
+    <li>
+      M.S. in Electrical Engineering, Hanyang University (In progress)
+    </li>
   </ul>
 
   <h2>💼 Career</h2>
