@@ -7,11 +7,11 @@
 
   <h1>Junhyuk Lee</h1>
   <p>
-    B.S. in Mechatronics Engineering, KoreaTech University<br>
-    Minor in Artificial Intelligence Convergence
+    M.S. in Electrical Engineering, Hanyang University (In progress)
   </p>
   <p>
-    M.S. in Electrical Engineering, Hanyang University (In progress)
+    B.S. in Mechatronics Engineering, KoreaTech University<br>
+    Minor in Artificial Intelligence Convergence
   </p>
   
   <h2>📫 Contact</h2>
@@ -48,17 +48,21 @@
     </li>
   </ul>
   
-  <h2>📚 Education</h2>
-  <ul>
-    <li>2016 – 2019: Graduated from Naru High School</li>
-    <li>
-      2023 – 2025: B.S. in Mechatronics Engineering, KoreaTech University (Graduated)<br>
-      Minor in Artificial Intelligence Convergence
-    </li>
-    <li>
-      M.S. in Electrical Engineering, Hanyang University (In progress)
-    </li>
-  </ul>
+<h2>📚 Education</h2>
+<ul>
+  <li>
+    M.S. in Electrical Engineering, Hanyang University (In progress)
+  </li>
+  <li>
+    B.S. in Mechatronics Engineering, 
+    Korea University of Technology and Education (KOREATECH), 2024<br>
+    Minor in Artificial Intelligence Convergence
+  </li>
+  <li>
+    Graduated from Naru High School, 2019
+  </li>
+</ul>
+
 
   <h2>💼 Career</h2>
   <ul>
