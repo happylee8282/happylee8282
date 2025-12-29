@@ -55,7 +55,7 @@
   </li>
   <li>
     B.S. in Mechatronics Engineering, 
-    Korea University of Tech University of korea, 2024<br>
+    Tech University of korea, 2024<br>
     Minor in Artificial Intelligence Convergence
   </li>
   <li>
