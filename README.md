@@ -67,7 +67,10 @@
 <h2>💼 Career</h2>
 <ul>
   <li>
-    Nov 2025 – Present: Unicorn Lab, Hanyang University
+    Nov 2025 – Present: Member, Unicorn Lab, Hanyang University
+  </li>
+  <li>
+    Dec 2025 – Present: Leader, Culcom English Program
   </li>
   <li>
     Feb 2025 – Jul 2025: Manager, Technical Sales Department, BRILS Co., Ltd.
@@ -76,21 +79,22 @@
     Jul 2024 – Aug 2025: Field Intern, PM Department, BRILS Co., Ltd.
   </li>
   <li>
-    Oct 2024 – Feb 2025: President, June_Lab (Study Group)
+    Oct 2024 – Feb 2025: Leader, June_Lab (Study Group)
   </li>
   <li>
     Apr 2024 – Dec 2025: Team Leader, TU-VCC
   </li>
   <li>
-    Mar 2024 – Feb 2025: Planning Director & Teaching Assistant, CIR Robotics Club
+    Mar 2024 – Feb 2025: Planning Manager & Teaching Assistant, CIR Robotics Club
   </li>
   <li>
     Dec 2020 – Apr 2021: Squad Leader, Communications Platoon, 117th Brigade, 39th Infantry Division, Republic of Korea Army
   </li>
   <li>
-    Apr 2019 – Dec 2020: Planning Committee Member, College Student Council
+    Apr 2019 – Dec 2020: Planning Member, College Student Council
   </li>
 </ul>
+
 
   
   <h2>📂 Projects</h2>
