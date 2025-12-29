@@ -10,7 +10,7 @@
     M.S. in Electrical Engineering, Hanyang University (In progress)
   </p>
   <p>
-    B.S. in Mechatronics Engineering, KoreaTech University<br>
+    B.S. in Mechatronics Engineering, Tech University of korea<br>
     Minor in Artificial Intelligence Convergence
   </p>
   
@@ -55,7 +55,7 @@
   </li>
   <li>
     B.S. in Mechatronics Engineering, 
-    Korea University of Technology and Education (KOREATECH), 2024<br>
+    Korea University of Tech University of korea, 2024<br>
     Minor in Artificial Intelligence Convergence
   </li>
   <li>
@@ -64,16 +64,34 @@
 </ul>
 
 
-  <h2>💼 Career</h2>
-  <ul>
-    <li>2019.04 - 2020.12: 단과대 학생회 - 기획계원</li>
-    <li>2020.12 - 2021.04: 육군 39사단 117여단 통신소대 - 분대장</li>
-    <li>2024.03 - 2025.02: CIR 동아리 - 기획부장 및 조교</li>
-    <li>2024.04 - 2025.12: TU-VCC - 팀장</li>
-    <li>2024.07 - 2025.08: (주)브릴스 - PM부서 현장실습생</li>
-    <li>2024.10 - 2025.02: June_Lab(스터디) - 회장</li>
-    <li>2025.02.17 - 2025.07.18: (주)브릴스 - 기술영업부 매니저</li>
-  </ul>
+<h2>💼 Career</h2>
+<ul>
+  <li>
+    Nov 2025 – Present: Unicorn Lab, Hanyang University
+  </li>
+  <li>
+    Feb 2025 – Jul 2025: Manager, Technical Sales Department, BRILS Co., Ltd.
+  </li>
+  <li>
+    Jul 2024 – Aug 2025: Field Intern, PM Department, BRILS Co., Ltd.
+  </li>
+  <li>
+    Oct 2024 – Feb 2025: President, June_Lab (Study Group)
+  </li>
+  <li>
+    Apr 2024 – Dec 2025: Team Leader, TU-VCC
+  </li>
+  <li>
+    Mar 2024 – Feb 2025: Planning Director & Teaching Assistant, CIR Robotics Club
+  </li>
+  <li>
+    Dec 2020 – Apr 2021: Squad Leader, Communications Platoon, 117th Brigade, 39th Infantry Division, Republic of Korea Army
+  </li>
+  <li>
+    Apr 2019 – Dec 2020: Planning Committee Member, College Student Council
+  </li>
+</ul>
+
   
   <h2>📂 Projects</h2>
   <ul>
