@@ -108,8 +108,6 @@
   <h2>✨ Skills</h2>
 <ul>
     <li>영어 오픽: IH</li>
-    <li>전체 학점: 3.79/4.5</li>
-    <li>전공 학점: 3.81/4.5</li>
     <br>
     <li>Prog. Langs: C / C++, Python</li>
     <li>Operating System: ROS, ROS2</li>
