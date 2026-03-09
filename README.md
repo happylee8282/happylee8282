@@ -61,6 +61,9 @@
 <h2>💼 Career</h2>
 <ul>
   <li>
+    Mar 2026 – Present: autonomous researcher, Pybrain AI inc
+  </li>
+  <li>
     Nov 2025 – Present: Member, Unicorn Lab, Hanyang University
   </li>
   <li>
