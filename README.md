@@ -94,7 +94,7 @@
 
 
   
-  <h2>📂 Projects</h2>
+  <h2>📂 Projects(BS)</h2>
   <ul>
     <li>2023.07 - 2023.11: 씨름로봇</li>
     <li>2023.08 - 2023.10: Health check box</li>
