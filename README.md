@@ -110,12 +110,11 @@
 
   <h2>✨ Skills</h2>
 <ul>
-    <li>영어 오픽: IH</li>
-    <br>
     <li>Prog. Langs: C / C++, Python</li>
     <li>Operating System: ROS, ROS2</li>
+    <li>Simulation: IsaacSim, Gazebo</li>
     <li>Hardware: Arduino, Raspberry pi, Jetson Nano</li>
-    <li>Deep Learning: Tensorflow ,YOLO V8</li>
+    <li>AI: YOLO V8, VLM</li>
     <li>Vision: OpenCV</li>
     <li>ETC: Ubuntu</li>
 </ul>
