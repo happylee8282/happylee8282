@@ -96,12 +96,12 @@
   
   <h2>📂 Projects(BS)</h2>
   <ul>
-    <li>2023.07 - 2023.11: 씨름로봇</li>
+    <li>2023.07 - 2023.11: Sumo robot</li>
     <li>2023.08 - 2023.10: Health check box</li>
-    <li>2023.11 - 2024.07: 중량 기반 물품분류 X-Y 로봇</li>
+    <li>2023.11 - 2024.07: X_Y_Robot_Weight_based_Courier_Classification</li>
     <li>2023.06 - 2024.08: Machine SI solution</li>
-    <li>2024.03 - 2024.06: 사람 얼굴 이미지 감정 분석</li>
-    <li>2024.04 - 2024.12: 카메라와 SLAM을 이용한 자율주행 기능을 갖는 물품 이송 매니플레이터</li>
+    <li>2024.03 - 2024.06: Facial Emotion Recognition from Human Face Images</li>
+    <li>2024.04 - 2024.12: A Material Transfer Manipulator with Autonomous Driving Functions using Camera and SLAM</li>
     <li>2024.09 - 2024.10: Waveshare Jetracer</li>
     <li>2024.09 - 2024.12: Chatbot (LangChain)</li>
     <li>2024.10 - 2024.11: ROCK,SCISSORS,PAPER!</li>
