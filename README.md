@@ -67,7 +67,7 @@
     Nov 2025 – Present: Member, Unicorn Lab, Hanyang University
   </li>
   <li>
-    Dec 2025 – Present: Leader, Culcom English Program
+    Dec 2025 – Mar 2026: Leader, Culcom English Program
   </li>
   <li>
     Feb 2025 – Jul 2025: Manager, Technical Sales Department, BRILS Co., Ltd.
