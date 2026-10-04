@@ -67,7 +67,7 @@
     March 2026 – May 2026: autonomous researcher, Pybrain AI inc
   </li>
   <li>
-    Dec 2025 – Mar 2026: Leader, Culcom English Program
+    Dec 2025 – March 2026: Leader, Culcom English Program
   </li>
   <li>
     Feb 2025 – Jul 2025: Manager, Technical Sales Department, BRILS Co., Ltd.
