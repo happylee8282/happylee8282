@@ -61,10 +61,10 @@
 <h2>💼 Career</h2>
 <ul>
   <li>
-    Mar 2026 – Present: autonomous researcher, Pybrain AI inc
+    Nov 2025 – Present: Member, Unicorn Lab, Hanyang University
   </li>
   <li>
-    Nov 2025 – Present: Member, Unicorn Lab, Hanyang University
+    March 2026 – May 2026: autonomous researcher, Pybrain AI inc
   </li>
   <li>
     Dec 2025 – Mar 2026: Leader, Culcom English Program
