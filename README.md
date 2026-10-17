@@ -41,9 +41,9 @@
       </a>
     </li>
     <li>
-    Velog:
+    portfolio Blog:
     <a href="https://junhyeok-robotics.candid-calf-5169.chatgpt.site/" target="_blank">
-      happy_lee_Who_are_you_Blog
+      happy_lee_Who_are_you
     </a>
   </li>
   </ul>
