@@ -37,11 +37,16 @@
     <li>
       Velog:
       <a href="https://velog.io/@happy_lee0_0/posts" target="_blank">
-        happy_lee0_0.log
+        happy_lee0_0_velog
       </a>
     </li>
+    <li>
+    Velog:
+    <a href="https://junhyeok-robotics.candid-calf-5169.chatgpt.site/" target="_blank">
+      happy_lee_Who_are_you_Blog
+    </a>
+  </li>
   </ul>
-  
 <h2>📚 Education</h2>
 <ul>
   <li>
